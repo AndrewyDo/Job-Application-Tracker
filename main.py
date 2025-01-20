@@ -40,9 +40,6 @@ def count_job_applications():
 
     # Keywords to search for in Gmail
     keywords = [
-        #'Your application%',
-        #'Thank you for applying%',
-        #'Your application was sent%'
         'Thank you for applying',
         'Your application was sent',
         'We received your application',
